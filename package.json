@@ -1,0 +1,53 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "description": "My Personal Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agafonov Kirill",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-babel": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-csso": "*",
+    "gulp-if": "*",
+    "gulp-imagemin": "*",
+    "gulp-jade": "*",
+    "gulp-less": "*",
+    "gulp-minify-html": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-postcss": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-stylus": "*",
+    "gulp-typescript": "*",
+    "gulp-uglify": "*",
+    "gulp-uncss": "*",
+    "gulp-zip": "*",
+    "imagemin-pngquant": "*",
+    "stream-combiner2": "*",
+    "typescript": "*"
+  },
+  "dependencies": {
+    "angular2": "*",
+    "concurrently": "*",
+    "es6-promise": "*",
+    "es6-shim": "*",
+    "react": "*",
+    "react-dom": "*",
+    "reflect-metadata": "*",
+    "rxjs": "*",
+    "systemjs": "*",
+    "typings": "*",
+    "zone.js": "*"
+  }
+}

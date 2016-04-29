@@ -1,0 +1,6 @@
+bower_components
+node_modules
+.idea
+bin
+app/scripts/plugins
+app/styles/plugins

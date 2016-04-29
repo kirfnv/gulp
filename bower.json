@@ -1,0 +1,23 @@
+{
+  "name": "gulp",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "bourbon": "*",
+    "bootstrap": "*",
+    "es5-shim": "*",
+    "html5shiv": "*",
+    "respond": "*",
+  }
+}
